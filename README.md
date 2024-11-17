@@ -1,12 +1,13 @@
+Here's the updated **README.md** file with relevant emojis added to the headings for a more engaging look:
 
-
-# CurrencyExchangeCalculator
+```markdown
+# 🌍 CurrencyExchangeCalculator
 
 **CurrencyExchangeCalculator** is a simple Java-based console application that allows users to convert currency amounts between multiple currencies using predefined exchange rates.
 
 ---
 
-## Features
+## ✨ Features
 
 - **Multi-Currency Support**: Convert between popular currencies including:
   - USD (US Dollar)
@@ -26,7 +27,7 @@
 
 ---
 
-## How to Use
+## 🛠️ How to Use
 
 1. **Run the Program**:
    - Execute the program in your Java IDE or via the terminal.
@@ -41,7 +42,7 @@
 
 ---
 
-## Supported Currencies
+## 💱 Supported Currencies
 
 | Currency Code | Currency Name         |
 |---------------|-----------------------|
@@ -58,7 +59,7 @@
 
 ---
 
-## Example Usage
+## 📋 Example Usage
 
 ### Input:
 ```
@@ -76,7 +77,7 @@ Enter the target currency code (e.g., INR): INR
 
 ---
 
-## Project Setup
+## 🛠️ Project Setup
 
 1. **Prerequisites**:
    - Java 8 or higher installed.
@@ -84,7 +85,7 @@ Enter the target currency code (e.g., INR): INR
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/CurrencyExchangeCalculator.git
+   git clone https://github.com/Purohit1999/CurrencyExchangeCalculator.git
    cd CurrencyExchangeCalculator
    ```
 
@@ -98,7 +99,7 @@ Enter the target currency code (e.g., INR): INR
 
 ---
 
-## Technologies Used
+## 💻 Technologies Used
 
 - **Programming Language**: Java
 - **Development Environment**: IntelliJ IDEA
@@ -109,7 +110,7 @@ Enter the target currency code (e.g., INR): INR
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for new features or improvements:
 1. Fork this repository.
@@ -129,15 +130,26 @@ Contributions are welcome! If you have suggestions for new features or improveme
 
 ---
 
-## License
+## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## Author
+## 👤 Author
 
-**[Your Name]**  
-[GitHub Profile](https://github.com/Purohit1999>)  
+**[Purohit1999](https://github.com/Purohit1999)**  
+```
 
----
+### Emojis Added
+- 🌍 for the project title.
+- ✨ for the "Features" section.
+- 🛠️ for "How to Use" and "Project Setup" sections.
+- 💱 for "Supported Currencies."
+- 📋 for "Example Usage."
+- 💻 for "Technologies Used."
+- 🤝 for "Contributing."
+- 📜 for "License."
+- 👤 for "Author."
+
+This adds a visual appeal to the README while keeping it professional. Save this as `README.md` and push it to your repository. Let me know if you need further adjustments!
