@@ -66,11 +66,6 @@ A simple yet powerful **Java-based console application** that allows users to co
 - Java 8 or higher installed on your system.
 - IDE (e.g., IntelliJ IDEA, Eclipse) or terminal to execute the program.
 
-### Clone the Repository:
-```bash
-git clone https://github.com/Purohit1999/CurrencyExchangeCalculator.git
-cd CurrencyExchangeCalculator
-```
 
 ### Run the Application:
 1. **Using an IDE**:
