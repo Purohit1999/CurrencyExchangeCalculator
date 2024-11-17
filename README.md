@@ -137,6 +137,18 @@ Contributions are welcome! Follow the steps below to contribute:
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+Modified MIT License
+
+Copyright (c) 2024 [Param Purohit]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with the following restrictions:
+
+1. Any use of the Software, including modified versions, must give appropriate
+   credit to the original author, Param Purohit , by including this notice in the
+   source code and documentation:
+
 
 ---
 
